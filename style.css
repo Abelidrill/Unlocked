@@ -316,3 +316,11 @@ h4 {
     background-position: center;
 
 }
+
+.about .chipaur
+{
+    background: url(voleurfurtif2.jpg);
+    width: 50%;
+    background-size: cover;
+    background-position: center;
+}
